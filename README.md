@@ -1,5 +1,5 @@
 # 💫 About Me:
-👉I'm currently a student of 42 Lisboa school<br>🎓I'm currently learning C language on a deep level<br>
+👉I'm currently a student of 42 Lisboa school<br>🎓I'm currently learning C language on a deep level<br>💼Doing all kinds of fun projects to get a job in IT<br>
 
 
 # 💻 Tech Stack:
