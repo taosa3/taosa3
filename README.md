@@ -47,7 +47,7 @@ I'm passionate about understanding how things work at a low level: memory, proce
 | [**Libft**](https://github.com/taosa3/libft) | Full reimplementation of the C standard library | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**ft_printf**](https://github.com/taosa3/ft_printf) | Variadic `printf` with full format specifier support | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**get_next_line**](https://github.com/taosa3/get_next_line) | Line-by-line file reading across multiple file descriptors | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
-| [**Born2beRoot**](https://github.com/taosa3/born2beroot) | Linux VM setup — LVM encryption, SSH hardening, UFW, PAM, cron | ![100](https://img.shields.io/badge/??-lightgrey?style=flat-square) |
+| [**Born2beRoot**](https://github.com/taosa3/born2beroot) | Linux VM setup — LVM encryption, SSH hardening, UFW, PAM, cron | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**so_long**](https://github.com/taosa3/so_long) | 2D game engine with MiniLibX — map parsing, textures, input | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**pipex**](https://github.com/taosa3/pipex) | Unix pipe simulation using `fork`, `execve`, `dup2` | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**push_swap**](https://github.com/taosa3/push_swap) | Sorting algorithm design with two stacks and minimal moves | ![84](https://img.shields.io/badge/84-yellow?style=flat-square) |
