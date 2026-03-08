@@ -5,7 +5,6 @@
 
 [![42 Lisboa](https://img.shields.io/badge/42%20Lisboa-Student-000000?style=for-the-badge&logo=42&logoColor=white)](https://github.com/taosa3)
 [![Location](https://img.shields.io/badge/Lisboa-Portugal-009C3B?style=for-the-badge&logo=google-maps&logoColor=white)](https://github.com/taosa3)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Any%20Opportunity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/taosa3)
 
 </div>
 
