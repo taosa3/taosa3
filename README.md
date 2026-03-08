@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I'm a software engineering student at **42 Lisboa**, one of the most demanding peer-to-peer coding schools in the world. My curriculum is built entirely around solving hard problems in C from scratch — no hand-holding, no frameworks, no shortcuts.
+I'm a software engineering student at **42 Lisboa**.
 
 I'm passionate about understanding how things work at a low level: memory, processes, threads, operating systems, and hardware. Outside of code I'm into **PC building**, which feeds the same curiosity about how systems fit together.
 
@@ -47,26 +47,12 @@ I'm passionate about understanding how things work at a low level: memory, proce
 | [**Libft**](https://github.com/taosa3/libft) | Full reimplementation of the C standard library | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**ft_printf**](https://github.com/taosa3/ft_printf) | Variadic `printf` with full format specifier support | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**get_next_line**](https://github.com/taosa3/get_next_line) | Line-by-line file reading across multiple file descriptors | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
-| [**Born2beRoot**](https://github.com/taosa3/born2beroot) | Linux VM setup — LVM encryption, SSH hardening, UFW, PAM, cron | ![?](https://img.shields.io/badge/??-lightgrey?style=flat-square) |
+| [**Born2beRoot**](https://github.com/taosa3/born2beroot) | Linux VM setup — LVM encryption, SSH hardening, UFW, PAM, cron | ![100](https://img.shields.io/badge/??-lightgrey?style=flat-square) |
 | [**so_long**](https://github.com/taosa3/so_long) | 2D game engine with MiniLibX — map parsing, textures, input | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**pipex**](https://github.com/taosa3/pipex) | Unix pipe simulation using `fork`, `execve`, `dup2` | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**push_swap**](https://github.com/taosa3/push_swap) | Sorting algorithm design with two stacks and minimal moves | ![84](https://img.shields.io/badge/84-yellow?style=flat-square) |
 | [**minishell**](https://github.com/taosa3/minishell) | Bash-like shell — lexer, parser, pipes, redirections, builtins, signals | ![97](https://img.shields.io/badge/97-brightgreen?style=flat-square) |
 | [**philosophers**](https://github.com/taosa3/philosophers) | Dining philosophers — POSIX threads, mutexes, deadlock prevention | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
-
----
-
-## 🏆 Highlight: minishell
-
-One of the most complex projects in the Common Core. A fully functional shell interpreter built in C, supporting:
-
-- Tokenisation, quote handling, and AST-based parsing
-- Environment variable expansion
-- Pipes, redirections (`<` `>` `>>`), and heredocs (`<<`)
-- All required builtins: `cd`, `echo`, `export`, `unset`, `env`, `pwd`, `exit`
-- Signal handling (`SIGINT`, `SIGQUIT`) matching Bash behaviour
-
-**Grade: 97/100**
 
 ---
 
@@ -82,14 +68,6 @@ One of the most complex projects in the Common Core. A fully functional shell in
 
 ---
 
-## 📬 Get in Touch
-
-I'm open to internships, junior roles, and any opportunity where I can keep learning and build things that matter. Don't hesitate to reach out.
-
-[![GitHub](https://img.shields.io/badge/GitHub-taosa3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taosa3)
-
----
-
 <div align="center">
-<sub>Built from scratch, like everything else.</sub>
+<sub>Born to code.</sub>
 </div>
