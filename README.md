@@ -42,7 +42,7 @@ I'm passionate about understanding how things work at a low level: memory, proce
 
 | Project | What it covers | Grade |
 |---------|---------------|-------|
-| [**Libft**]([https://github.com/taosa3/Common-Core/tree/main/libft]) | Full reimplementation of the C standard library | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
+| [**Libft**](https://github.com/taosa3/Common-Core/tree/main/libft) | Full reimplementation of the C standard library | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**ft_printf**]([https://github.com/taosa3/Common-Core/tree/main/printf]) | Variadic `printf` with full format specifier support | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**get_next_line**]([https://github.com/taosa3/Common-Core/tree/main/getnextline]) | Line-by-line file reading across multiple file descriptors | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**Born2beRoot**](https://github.com/taosa3/born2beroot) | Linux VM setup — LVM encryption, SSH hardening, UFW, PAM, cron | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
