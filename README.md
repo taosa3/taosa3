@@ -19,7 +19,7 @@ I'm passionate about understanding how things work at a low level: memory, proce
 - 🎓 Currently completing the **42 Common Core**
 - 💻 Strong foundation in **C**, **C++**, **systems programming**, and **Unix/Linux**
 - 🔧 Interested in **low-level development**, **DevOps**, **game dev**, and **hardware**
-- 🌍 Based in **Lisboa, Portugal** — open to remote and on-site opportunities
+- 🌍 Based in **Lisboa, Portugal** — open to remote, hybrid and on-site opportunities
 
 ---
 
