@@ -17,7 +17,7 @@ I'm a software engineering student at **42 Lisboa**.
 I'm passionate about understanding how things work at a low level: memory, processes, threads, operating systems, and hardware. Outside of code I'm into **PC building**, which feeds the same curiosity about how systems fit together.
 
 - 🎓 Currently completing the **42 Common Core**
-- 💻 Strong foundation in **C**, **systems programming**, and **Unix/Linux**
+- 💻 Strong foundation in **C**, **C++**, **systems programming**, and **Unix/Linux**
 - 🔧 Interested in **low-level development**, **DevOps**, **game dev**, and **hardware**
 - 🌍 Based in **Lisboa, Portugal** — open to remote and on-site opportunities
 
@@ -32,7 +32,7 @@ I'm passionate about understanding how things work at a low level: memory, proce
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Core skills:** Memory management · Multithreading · Process & signal handling · Unix IPC · Shell scripting · System administration · Algorithm design
+**Core skills:** Memory management · Multithreading · Process & signal handling · Unix IPC · Shell scripting · System administration · Networking fundamentals · OOP (C++) · Algorithm design
 
 ---
 
@@ -50,7 +50,10 @@ I'm passionate about understanding how things work at a low level: memory, proce
 | [**pipex**](https://github.com/taosa3/Common-Core/tree/main/pipex) | Unix pipe simulation using `fork`, `execve`, `dup2` | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**push_swap**](https://github.com/taosa3/Common-Core/tree/main/push_swap) | Sorting algorithm design with two stacks and minimal moves | ![84](https://img.shields.io/badge/84-yellow?style=flat-square) |
 | [**minishell**](https://github.com/taosa3/Common-Core/tree/main/minishell) | Bash-like shell — lexer, parser, pipes, redirections, builtins, signals | ![97](https://img.shields.io/badge/97-brightgreen?style=flat-square) |
-| [**philosophers**](https://github.com/taosa3/Common-Core/tree/main/philo) | Dining philosophers — POSIX threads, mutexes, deadlock prevention | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
+| [**philosophers**](https://github.com/taosa3/Common-Core/tree/main/philo) | Dining philosophers — POSIX threads, mutexes, deadlock prevention | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
+| [**Cub3D**](https://github.com/taosa3/Common-Core/tree/main/cub3d) | Raycasting engine — pseudo-3D rendering from a 2D map, MiniLibX | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
+| [**NetPractice**](https://github.com/taosa3/Common-Core/tree/main/netpractice) | IP addressing, subnetting, CIDR, and multi-router routing tables | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
+| [**CPP Modules (00–01)**](https://github.com/taosa3/Common-Core/tree/main/cpp) | Intro to C++ — classes, encapsulation, references, abstract classes | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
 
 ---
 
