@@ -1,7 +1,7 @@
 <div align="center">
 
 # Tomás Afonso
-### Systems Programming · C/C++ · Game Dev
+### C/C++ · Systems Programming · Game Dev
 
 [![42 Lisboa](https://img.shields.io/badge/42%20Lisboa-Student-000000?style=for-the-badge&logo=42&logoColor=white)](https://github.com/taosa3)
 [![Location](https://img.shields.io/badge/Lisboa-Portugal-009C3B?style=for-the-badge&logo=google-maps&logoColor=white)](https://github.com/taosa3)
