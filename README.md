@@ -53,7 +53,7 @@ I'm passionate about understanding how things work at a low level: memory, proce
 | [**philosophers**](https://github.com/taosa3/Common-Core/tree/main/philo) | Dining philosophers — POSIX threads, mutexes, deadlock prevention | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**Cub3D**](https://github.com/taosa3/Common-Core/tree/main/cub3d) | Raycasting engine — pseudo-3D rendering from a 2D map, MiniLibX | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
 | [**NetPractice**](https://github.com/taosa3/Common-Core/tree/main/NetPractice) | IP addressing, subnetting, CIDR, and multi-router routing tables | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
-| [**CPP Modules (00–04)**](https://github.com/taosa3/Common-Core/tree/main/cpp) | Intro to C++ — classes, encapsulation, references, abstract classes | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
+| [**CPP Modules (00–04)**](https://github.com/taosa3/Common-Core/tree/main/CPP) | Intro to C++ — classes, encapsulation, references, abstract classes | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
 
 ---
 
