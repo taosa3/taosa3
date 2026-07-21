@@ -52,8 +52,8 @@ I'm passionate about understanding how things work at a low level: memory, proce
 | [**minishell**](https://github.com/taosa3/Common-Core/tree/main/minishell) | Bash-like shell — lexer, parser, pipes, redirections, builtins, signals | ![97](https://img.shields.io/badge/97-brightgreen?style=flat-square) |
 | [**philosophers**](https://github.com/taosa3/Common-Core/tree/main/philo) | Dining philosophers — POSIX threads, mutexes, deadlock prevention | ![100](https://img.shields.io/badge/100-brightgreen?style=flat-square) |
 | [**Cub3D**](https://github.com/taosa3/Common-Core/tree/main/cub3d) | Raycasting engine — pseudo-3D rendering from a 2D map, MiniLibX | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
-| [**NetPractice**](https://github.com/taosa3/Common-Core/tree/main/netpractice) | IP addressing, subnetting, CIDR, and multi-router routing tables | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
-| [**CPP Modules (00–01)**](https://github.com/taosa3/Common-Core/tree/main/cpp) | Intro to C++ — classes, encapsulation, references, abstract classes | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
+| [**NetPractice**](https://github.com/taosa3/Common-Core/tree/main/NetPractice) | IP addressing, subnetting, CIDR, and multi-router routing tables | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
+| [**CPP Modules (00–04)**](https://github.com/taosa3/Common-Core/tree/main/cpp) | Intro to C++ — classes, encapsulation, references, abstract classes | ![In Progress](https://img.shields.io/badge/In%20Progress-blue?style=flat-square) |
 
 ---
 
